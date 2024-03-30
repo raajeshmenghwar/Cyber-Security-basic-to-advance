@@ -1,6 +1,5 @@
 ## Introduction to Linux Command Line Basics
 
-### 01/03/2024
 
 #### Lab Setup
 
@@ -54,8 +53,6 @@ Head over to the official [Kali Linux](https://www.kali.org/get-kali/) download 
     * `#`: Indicates root (administrator) privileges
 
 
-### 03/03/2024
-
 **Terminal Operations**
 
 * **Listing Files and Folders:** `ls` - Lists the contents of the current directory.
@@ -74,7 +71,6 @@ Head over to the official [Kali Linux](https://www.kali.org/get-kali/) download 
 
 **Essential Commands and Navigation in Kali Linux**
 
-**16/03/2024**
 
 **Basic Commands**
 
@@ -98,7 +94,6 @@ Head over to the official [Kali Linux](https://www.kali.org/get-kali/) download 
 * **`mkdir directory_name`:** Creates a new directory.
 * **`rmdir directory_name`:** Removes an empty directory.
 * **`rm -r directory_name`:** Deletes a directory and all its contents (use with caution!).
-
 
 **Cron Jobs and Local Disk Management in Linux**
 
