@@ -40,8 +40,9 @@ This roadmap is designed for educational purposes only. Always use the tools and
 ### Resources
 - [Linux for Hackers - NetworkChuck](https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)
 - [Linux for Hackers - DavidBombal](https://www.youtube.com/playlist?list=PLhfrWIlLOoKOs-fjCPHdzD2icF2vORfwK)
+- [Linux for Ethical Hackers (2022 - Full Kali Linux Course)](https://www.youtube.com/watch?v=U1w4T03B30I&list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47&index=9&ab_channel=TheCyberMentor)
 - [Linux Basics for Hackers Book by OccupyTheWeb](https://www.amazon.com/Linux-Basics-Hackers-Networking-Scripting/dp/1593278551)
-- [Complete Linux Fundamentals Rooms on TryHackMe](https://tryhackme.com/module/linux-fundamentals)
+- [Complete Linux Fundamentals Module on TryHackMe](https://tryhackme.com/module/linux-fundamentals)
 
 **- Complete any related practice questions or exercises.**
 
@@ -49,7 +50,8 @@ This roadmap is designed for educational purposes only. Always use the tools and
 ## Step 4: Python for Hackers
 
 ### Resources
-- [Python for Hackers FULL Course](https://www.youtube.com/watch?v=XWuP5Yf5ILI&ab_channel=RyanJohn)
+- [Python for Hackers FULL Course - RyanJohn](https://www.youtube.com/watch?v=XWuP5Yf5ILI&ab_channel=RyanJohn)
+- [Python for Beginners - TheCyberMentor](https://www.youtube.com/watch?v=7utwZYKweho&list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47&index=10&ab_channel=TheCyberMentor)
 
 ## Step 5: Get Hands-On with Top Cyber Security Tools
 
@@ -58,7 +60,7 @@ This roadmap is designed for educational purposes only. Always use the tools and
   - Maltego
   - Ang-Roc
 - **Resources:**
-  - [TCM Security OSINT Tutorial](https://www.youtube.com/channel/UCk7v5cUsvYENKOxkV6h1FWA)
+  - [Open-Source Intelligence (OSINT) Full Course - TheCyberMentor](https://www.youtube.com/watch?v=qwA6MmbeGNo&list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47&index=6&ab_channel=TheCyberMentor)
 
 ### Network Scanning Tools
 - **Tools:**
