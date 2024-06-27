@@ -41,7 +41,8 @@ This roadmap is designed for educational purposes only. Always use the tools and
 - [Linux for Hackers - NetworkChuck](https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)
 - [Linux for Hackers - DavidBombal](https://www.youtube.com/playlist?list=PLhfrWIlLOoKOs-fjCPHdzD2icF2vORfwK)
 - [Linux Basics for Hackers Book by OccupyTheWeb](https://www.amazon.com/Linux-Basics-Hackers-Networking-Scripting/dp/1593278551)
-- [The Linux Command Line](https://linuxcommand.org/tlcl.php) by William Shotts
+- [Complete Linux Fundamentals Rooms on TryHackMe](https://tryhackme.com/module/linux-fundamentals)
+
 **- Complete any related practice questions or exercises.**
 
 
