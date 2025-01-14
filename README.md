@@ -1,6 +1,4 @@
-# Red Teaming and Offensive Security Roadmap
-## From Newbie to Advanced
-
+# Cyber Security Roadmap from Basics to Advance
 
 ## Disclaimer
 
