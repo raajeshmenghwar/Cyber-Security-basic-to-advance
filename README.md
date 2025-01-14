@@ -1,4 +1,4 @@
-# Red Teaming and Offensive Security Roadmap
+# Cyber Security From Basics to Advance | Free Roadmap
 ## From Newbie to Advanced
 
 
@@ -132,8 +132,7 @@ This roadmap is curated by **Rajesh Kumar**, a cybersecurity enthusiast dedicate
 
 Follow for more updates and insights:
 
-- **LinkedIn:** [raajeshmenghwar](https://www.linkedin.com/in/raajeshmenghwar)
-- **Medium:** [raajeshmenghwar](https://raajeshmenghwar.medium.com)
-- **Instagram:** [raajeshmenghwar](https://www.instagram.com/raajeshmenghwar)
+- **[LinkedIn](https://www.linkedin.com/in/raajeshmenghwar)**
+- **[Medium](https://raajeshmenghwar.medium.com)**
 
 **Keep hacking and stay curious!**
