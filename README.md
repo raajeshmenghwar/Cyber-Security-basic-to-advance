@@ -9,7 +9,7 @@ This roadmap is intended for **educational purposes only**. Always use the tools
 ## Step 1: Foundational IT Knowledge
 ### Complete **Practical Help Desk** Course [Higly Recommended]
 
-- [Practical Help Desk course from TCM Security](https://www.academy.tcm-sec.com/p/practical-help-desk)
+- [Practical Help Desk course from TCM Security](https://academy.tcm-sec.com/p/practical-help-desk)
 
 ### Complete **CompTIA A+ Certification** Syllabus
 
