@@ -122,10 +122,6 @@ Explore these platforms to hunt bugs:
 - [Synack Red Team](https://www.synack.com/red-team/)
 
 ---
-![Offensive Linux Security Tools](https://github.com/raajeshmenghwar/Cyber-Security-basic-to-advance/blob/main/Cyber-Security-Notes/cheatsheets/Offensive%20Linux%20Security%20Tools.jpg)
-
----
-
 
 ## About the Author
 
